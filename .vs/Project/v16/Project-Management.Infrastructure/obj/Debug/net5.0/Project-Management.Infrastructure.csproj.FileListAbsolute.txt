@@ -1,0 +1,15 @@
+E:\naidu\Project-Management.Infrastructure\bin\Debug\net5.0\Project-Management.Infrastructure.deps.json
+E:\naidu\Project-Management.Infrastructure\bin\Debug\net5.0\Project-Management.Infrastructure.dll
+E:\naidu\Project-Management.Infrastructure\bin\Debug\net5.0\ref\Project-Management.Infrastructure.dll
+E:\naidu\Project-Management.Infrastructure\bin\Debug\net5.0\Project-Management.Infrastructure.pdb
+E:\naidu\Project-Management.Infrastructure\bin\Debug\net5.0\Project-Management.core.dll
+E:\naidu\Project-Management.Infrastructure\bin\Debug\net5.0\Project-Management.core.pdb
+E:\naidu\Project-Management.Infrastructure\obj\Debug\net5.0\Project-Management.Infrastructure.csproj.AssemblyReference.cache
+E:\naidu\Project-Management.Infrastructure\obj\Debug\net5.0\Project-Management.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\naidu\Project-Management.Infrastructure\obj\Debug\net5.0\Project-Management.Infrastructure.AssemblyInfoInputs.cache
+E:\naidu\Project-Management.Infrastructure\obj\Debug\net5.0\Project-Management.Infrastructure.AssemblyInfo.cs
+E:\naidu\Project-Management.Infrastructure\obj\Debug\net5.0\Project-Management.Infrastructure.csproj.CoreCompileInputs.cache
+E:\naidu\Project-Management.Infrastructure\obj\Debug\net5.0\Project-Management.Infrastructure.csproj.CopyComplete
+E:\naidu\Project-Management.Infrastructure\obj\Debug\net5.0\Project-Management.Infrastructure.dll
+E:\naidu\Project-Management.Infrastructure\obj\Debug\net5.0\ref\Project-Management.Infrastructure.dll
+E:\naidu\Project-Management.Infrastructure\obj\Debug\net5.0\Project-Management.Infrastructure.pdb

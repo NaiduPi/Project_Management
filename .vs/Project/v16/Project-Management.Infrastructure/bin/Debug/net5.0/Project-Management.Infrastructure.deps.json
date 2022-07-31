@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Project-Management.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Project-Management.core": "1.0.0"
+        },
+        "runtime": {
+          "Project-Management.Infrastructure.dll": {}
+        }
+      },
+      "Project-Management.core/1.0.0": {
+        "runtime": {
+          "Project-Management.core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project-Management.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Project-Management.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+E:\naidu\Project-Management.core\bin\Debug\net5.0\Project-Management.core.deps.json
+E:\naidu\Project-Management.core\bin\Debug\net5.0\Project-Management.core.dll
+E:\naidu\Project-Management.core\bin\Debug\net5.0\ref\Project-Management.core.dll
+E:\naidu\Project-Management.core\bin\Debug\net5.0\Project-Management.core.pdb
+E:\naidu\Project-Management.core\obj\Debug\net5.0\Project-Management.core.csproj.AssemblyReference.cache
+E:\naidu\Project-Management.core\obj\Debug\net5.0\Project-Management.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\naidu\Project-Management.core\obj\Debug\net5.0\Project-Management.core.AssemblyInfoInputs.cache
+E:\naidu\Project-Management.core\obj\Debug\net5.0\Project-Management.core.AssemblyInfo.cs
+E:\naidu\Project-Management.core\obj\Debug\net5.0\Project-Management.core.csproj.CoreCompileInputs.cache
+E:\naidu\Project-Management.core\obj\Debug\net5.0\Project-Management.core.dll
+E:\naidu\Project-Management.core\obj\Debug\net5.0\ref\Project-Management.core.dll
+E:\naidu\Project-Management.core\obj\Debug\net5.0\Project-Management.core.pdb
